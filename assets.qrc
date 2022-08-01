@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>fonts/worksans.ttf</file>
+        <file>fonts/MontserratAlternates-Light.ttf</file>
+        <file>icons/add-person.svg</file>
+        <file>icons/add-user.svg</file>
+        <file>icons/book-appointments.svg</file>
+        <file>icons/delete.svg</file>
+        <file>icons/doctor.svg</file>
+        <file>icons/settings.svg</file>
+        <file>images/account_image.png</file>
+    </qresource>
+</RCC>
